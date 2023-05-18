@@ -17,7 +17,7 @@ const Cards = () => {
                         <p className='py-2 border-b mx-8'>Send up to 2 GB</p>
                         <p className='py-2 border-b mx-8'>500 GB Storage</p>
                     </div>
-                    <button className='bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 px-6 text-black'>Start Trial</button>
+                    <button className='bg-[#00df9a] md:w-[160px] w-[200px] rounded-md font-medium my-6 mx-auto py-3 px-6 text-black'>Start Trial</button>
                 </div>
 
                 <div className='w-full shadow-xl bg-gray-800 text-white flex flex-col p-4 md:0 my-4 rounded-lg hover:scale-105 duration-300'>
@@ -29,7 +29,7 @@ const Cards = () => {
                         <p className='py-2 border-b mx-8'>Send up to 4 GB</p>
                         <p className='py-2 border-b mx-8'>750 GB Storage</p>
                     </div>
-                    <button className='bg-[#004d6e] text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 px-6'>Start Trial</button>
+                    <button className='bg-[#004d6e] text-[#00df9a] md:w-[160px]  w-[200px] rounded-md font-medium my-6 mx-auto py-3 px-6'>Start Trial</button>
                 </div>
 
                 <div className='bg-gray-400 w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300'>
@@ -41,7 +41,7 @@ const Cards = () => {
                         <p className='py-2 border-b mx-8'>Send up to 6 GB</p>
                         <p className='py-2 border-b mx-8'>1000 GB Storage</p>
                     </div>
-                    <button className='bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 px-6 text-black'>Start Trial</button>
+                    <button className='bg-[#00df9a] md:w-[160px]  w-[200px] rounded-md font-medium my-6 mx-auto py-3 px-6 text-black'>Start Trial</button>
                 </div>
 
             </div>
