@@ -38,7 +38,7 @@ const Cards = () => {
                     <p className='text-center text-4xl font-bold'>$399</p>
                     <div className='text-center font-medium'>
                         <p className='py-2 border-b mx-8 mt-8'>3 Granted Users</p>
-                        <p className='py-2 border-b mx-8'>Send up to 6 GB</p>
+                        <p className='py-2 border-b mx-8'>Send up to 7 GB</p>
                         <p className='py-2 border-b mx-8'>1000 GB Storage</p>
                     </div>
                     <button className='bg-[#00df9a] md:w-[160px]  w-[200px] rounded-md font-medium my-6 mx-auto py-3 px-6 text-black'>Start Trial</button>
