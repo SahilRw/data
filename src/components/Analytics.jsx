@@ -3,10 +3,10 @@ import Laptop from '../assets/laptop.jpg'
 
 const Analytics = () => {
     return (
-        <div className='w-full bg-white py-16 px-4'>
+        <div className='w-full py-16 px-4 bg-[#f2f2f2]'>
             <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
-                <img className='w-[500px] mx-auto my-4' src={Laptop} alt="laptop" />
-                <div className='flex flex-col justify-center'>
+                <img className='w-[500px] rounded-full border-black border-2 mx-auto my-4' src={Laptop} alt="laptop" />
+                <div className='flex flex-col justify-center px-4'>
                     <p className='text-[##00df9] font-bold'>DATA ANALYTICS DASHBOARD</p>
                     <h2 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2 '>Manage Data Analytics Centrally</h2>
                     <p className=''>
