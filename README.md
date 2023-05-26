@@ -18,6 +18,8 @@ This project is a data analytics webpage built with React and Tailwind CSS. It s
 
 - This project was built with the help of the following resources:
 
-React: https://reactjs.org/
-Tailwind CSS: https://tailwindcss.com/
-React Icons: https://react-icons.github.io/react-icons/
+#### React: https://reactjs.org/
+
+#### Tailwind CSS: https://tailwindcss.com/
+
+#### React Icons: https://react-icons.github.io/react-icons/
